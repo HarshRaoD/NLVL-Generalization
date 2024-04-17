@@ -1,0 +1,302 @@
+01N08EGO 3.9 21.7##A person makes a sandwich.
+01N08EGO 0.0 4.4##A person takes items from the cabinet.
+01N08EGO 24.5 31.1##The person leaves.
+04DU1EGO 12.7 17.3##They stop reading.
+04DU1EGO 18.2 24.6##A person laughing at something.
+04DU1EGO 0.0 33.58##A person is reading a book.
+04DU1EGO 24.6 32.8##A person picks a bag off the floor.
+04DU1EGO 7.2 13.5##A person starts tidying around.
+08GOZEGO 20.2 23.96##The person sits on a to chair read a book while waiting for the load to finish.
+08WXXEGO 0.4 5.4##A person grasps some coffee off a table.
+08WXXEGO 5.1 12.58##A person stands up to leave.
+09J7GEGO 0.0 9.3##A person stands up on a chair.
+09J7GEGO 5.0 13.79##A person begins playing air guitar with a broom.
+0FEXMEGO 4.2 8.3##A person snuggling a picture.
+0FEXMEGO 1.4 5.0##A person is closing a window.
+0HJFXEGO 11.0 22.0##The person is watching the television across the room.
+0HJFXEGO 0.0 10.9##A person is standing near the pantry holding a broom.
+0HP97EGO 0.0 8.4##A person is lying down on their bed in the bedroom.
+0HP97EGO 11.9 21.0##They are fixing their clothes.
+0HP97EGO 23.5 35.3##A person places a blanket on the ground.
+0HP97EGO 35.0 35.38##A person throwing a box onto the bed.
+0IYEUEGO 0.0 4.3##A person walks into the closet.
+0IYEUEGO 19.6 25.2##A person consuming some medicine.
+0IYEUEGO 11.7 19.6##The person takes some medicine from the shelf.
+0K355EGO 5.0 15.2##A person is fixing a shelf in a pantry while grasping a hammer.
+0K355EGO 15.1 27.12##A person takes a picture of their work with a camera before the look out of a window.
+0MJUKEGO 0.0 19.7##The person grasped the broom while sweeping down the hallway.
+0MJUKEGO 17.2 23.1##The person set the broom against the wall.
+0MJUKEGO 19.8 27.92##A person tried to open a door multiple times.
+0MU5HEGO 1.3 6.1##A person sneezing while standing above the table with the groceries.
+0MU5HEGO 0.0 10.96##A person is laughing.
+0N16WEGO 0.0 22.0##A person is playing a game on their laptop.
+0N16WEGO 28.5 30.92##A person takes a break to bite their sandwich.
+0Q1K2EGO 0.0 11.8##A person watches the screen of their camera.
+0Q1K2EGO 11.9 16.4##A person turns off the light.
+0Q1K2EGO 0.0 12.0##The person takes a picture of a laptop.
+0RK9PEGO 18.5 30.33##A person is cooking something they just poured from a box taken from the refrigerator.
+0V733EGO 0.0 7.1##The person looks into a mirror.
+0V733EGO 11.4 19.0##The person snuggles with the blanket.
+0V733EGO 4.3 13.3##A person sneezes in a bedroom.
+0V733EGO 16.1 19.75##A person throws a blanket on to the bed before walking away from the bed.
+0WRGREGO 0.0 7.9##One person on an old sofa opens a box.
+0WRGREGO 6.0 33.9##A person starts playing with a box when another runs in with a broom.
+0XXAKEGO 20.0 33.0##The person starts fixing the television.
+0XXAKEGO 17.0 20.0##A person takes out some tools out of a bag.
+0XXAKEGO 0.0 13.0##A person is in the leaving room smiling at pictures that is watching in a camera.
+0XXAKEGO 0.0 20.0##The television is on.
+12PK9EGO 2.0 12.4##A person is holding their coffee while laughing at a picture.
+12SLKEGO 4.7 11.3##A person is in the hallway putting on shoes.
+12SLKEGO 0.0 5.3##A person holding a broom.
+14J04EGO 0.5 8.0##A person is putting a pillow on the couch.
+14J04EGO 17.9 23.1##Another person is closing the wardrobe.
+15AKPEGO 19.1 26.7##A person closing the cabinet.
+15AKPEGO 14.1 20.7##A person is putting a box on the shelf.
+15ERXEGO 5.7 12.3##The person puts the water down on the table.
+15ERXEGO 12.7 17.96##A person picks up their shoes and pile of clothes from the floor.
+15ERXEGO 1.2 9.0##A person is standing next to the table drinking a glass of water.
+15PH0EGO 8.1 19.2##Aperson begin laughing holding food.
+15PH0EGO 0.0 12.8##A person playing with a camera.
+15PH0EGO 0.0 20.1##A person in the kitchen.
+19QB5EGO 7.2 12.0##A person walking over to their refrigerator to eat.
+19QB5EGO 5.6 8.0##A person is grasping their medicine.
+1GL7YEGO 6.0 9.0##The person sits on the bed.
+1GL7YEGO 9.0 11.0##A person grabs a bottle of medicine from the bedside table.
+1GL7YEGO 14.0 17.0##A person takes some medicine.
+1GL7YEGO 17.0 23.0##A person drinks the water.
+1GL7YEGO 4.0 7.0##A person picks up a glass of water from the shelf.
+1GL7YEGO 0.0 3.0##A person walks into the room.
+1HDWSEGO 9.5 19.1##A person begins to clean.
+1HDWSEGO 1.5 14.6##A person opens a doorway to a closet and takes out a vacuum.
+1HDWSEGO 23.9 33.9##A person undresses while sneezing.
+1HDWSEGO 33.6 34.25##A person walks over to lay down on the bed.
+1JSZ1EGO 0.0 3.0##A person grasps some coffee off a table.
+1JSZ1EGO 1.2 8.2##A person stands up to leave.
+1LE1XEGO 0.0 4.1##A person holding a box.
+1LE1XEGO 3.6 9.1##A person puts the box down.
+1LE1XEGO 8.0 14.7##A person begins washing the glass in the sink.
+1LE1XEGO 8.7 23.71##A person is standing in the doorway.
+1LT95EGO 4.4 23.5##The person sits down on the floor.
+1LT95EGO 23.4 35.9##Aperson puts on the shoes while they watch tv.
+1LT95EGO 6.9 22.4##A perosn takes their shoes off the sofa in the study.
+1LT95EGO 39.9 47.8##The person walks out the door.
+1MJZ8EGO 0.0 9.0##A person is sitting at a table.
+1MJZ8EGO 10.6 18.17##A person puts groceries on a shelf.
+1MJZ8EGO 1.9 8.5##The person begins to take groceries out of the box.
+1MJZ8EGO 0.0 7.9##A person opening a box.
+1MJZ8EGO 9.0 12.0##sneezing as the person does so.
+1OH4FEGO 3.1 12.7##One person is eating.
+1OH4FEGO 1.9 7.8##A person is laughing as they cook at the stove.
+1U4OUEGO 13.0 19.0##A person sits the tools on a chair.
+1U4OUEGO 0.0 14.0##A person is taking tools of of the cabinet shelf in the garage.
+1U4OUEGO 23.0 35.0##A person fixing the doorknob.
+1X8OYEGO 0.0 5.0##A person is standing in front of the refrigerator.
+1X8OYEGO 1.0 4.0##They start to drink the water.
+1X8OYEGO 2.0 4.0##They spill some.
+1X8OYEGO 5.0 9.0##A person wipe water up with a towel.
+20DK5EGO 4.6 9.5##A person throws a book to the floor.
+20DK5EGO 0.0 5.8##One person is in the laundry room holding a book while is reading the last page.
+20DK5EGO 10.3 23.7##A person start playing with some groceries that are on a side of the room.
+20GTVEGO 18.0 25.0##A person drinks it.
+20GTVEGO 1.2 9.4##A person awakens on a sofa in their home office.
+20GTVEGO 9.5 16.9##The person pours a cup of coffee.
+22QBGEGO 0.1 5.8##A person tidying with a broom while smiling in a pantry.
+22QBGEGO 0.0 1.5##A person is sneezing into a bag.
+25NFCEGO 0.0 12.0##A laughing person is holding a blanket while sitting on a box.
+25NFCEGO 12.3 15.21##A persons turn on the light.
+25VH6EGO 0.0 12.5##A person is sitting at the desk working on their homework.
+25VH6EGO 14.0 22.0##A person begins eating.
+25VH6EGO 10.5 18.9##The person takes some food out of a bag.
+27GTWEGO 6.4 12.9##Person opened the door to the closet.
+27GTWEGO 11.0 21.0##The person began going through the stuff on the shelves.
+27GTWEGO 5.5 11.5##Once inside they stood in front of the mirror.
+27GTWEGO 0.0 5.6##The person opened the door to the bathroom while talking on their phone.
+29OLXEGO 18.1 32.2##A person begins to work on the vacuum.
+29OLXEGO 0.0 10.3##A person is washing a mirror wish a rag in the basement near a vacuum.
+29OLXEGO 30.5 37.6##They pick up a book on the floor.
+29OLXEGO 8.1 12.4##They throw down the rag on the floor.
+2CPK8EGO 16.3 24.2##A person take their shoes off at the bottom.
+2CPK8EGO 10.0 17.0##A person walk down the stairs.
+2CPK8EGO 0.0 9.8##A person is sitting on the staircase smiling while snuggling clothes.
+2CPK8EGO 20.7 37.96##They walk back up the stairs.
+2CPK8EGO 35.6 48.0##Fixing a light that seems to be broken at the top of the stairs.
+2CTBWEGO 0.0 7.8##Tidying up a bit in the bathroom.
+2CTBWEGO 22.3 35.5##A person doing something with a vaccum cleaner
+2CTBWEGO 9.6 19.3##A person began playing around with the position of the mirror before returning to a vacuum cleaner.
+2JE57EGO 10.0 18.7##A person using a broom.
+2JE57EGO 0.0 11.0##A person is awakening to a light.
+2JE57EGO 17.9 32.08##A person tidying up a towel.
+2LOMLEGO 1.5 10.92##A smiling person setting on a sofa in a basement watching a television show.
+2LOMLEGO 10.92 12.0##A person suddenly sneezes
+2MK76EGO 1.7 9.7##Person who is eating from a sack of groceries.
+2MK76EGO 15.7 25.6##A person smiles at another person while drinking from a glass.
+2P3X9EGO 7.5 19.6##A person is washing a glass.
+2P3X9EGO 9.0 16.8##A person smiling while drinking coffee in a kitchen.
+2PIAOEGO 13.0 19.0##They pick up a bottle of medication.
+2PIAOEGO 0.0 13.9##A person is in the bedroom working on their homework on a laptop.
+2PIAOEGO 24.0 30.21##They swallow the medication.
+2QKBNEGO 8.0 12.0##One person is running to the refrigerator 
+2QKBNEGO 0.0 33.8##Another person is holding the clothes.
+2QSO2EGO 14.0 19.9##A person puts a towel down.
+2QSO2EGO 0.0 15.4##A person is holding their phone
+2R805EGO 0.0 15.8##A person lying on a sofa in the basement.
+2R805EGO 12.7 18.5##A person reaching for and grabbing a picture.
+2R805EGO 15.9 21.4##A person putting a picture somewhere
+2TCM7EGO 12.8 19.58##The person puts the drink back in the fridge.
+2TCM7EGO 16.6 19.58##Person closes the door.
+2TCM7EGO 1.0 7.0##A person is drinking from a glass.
+2UAB5EGO 0.0 23.17##A person is holding a glass of coffee.
+2UAB5EGO 12.0 23.0##He is walking slowly towards the desk.
+2UAB5EGO 19.6 23.17##A person putting his coffee cup on the table.
+2UAB5EGO 25.0 29.0##Looking outside of a window
+2VR86EGO 0.0 4.9##A person enters the kitchen holding droceries.
+2VR86EGO 0.0 7.0##A person put groceries down by the sink on the counter.
+2VR86EGO 2.4 8.5##A person takes food out.
+2VR86EGO 7.8 15.0##They start sneezing as they open up the bags of groceries.
+2VR86EGO 9.1 21.7##A person take food out.
+2WL3SEGO 19.0 21.92##A person leaving.
+2WL3SEGO 7.0 16.5##The person stands in front of the mirror.
+2WL3SEGO 8.7 17.4##A person drinks a cup of coffee before turning off the light.
+2WL3SEGO 0.0 11.7##A person is dressing in the bathroom.
+2Y042EGO 25.0 31.0##They begin tidying up the room.
+2Y042EGO 12.4 28.1##A person holding a plate
+2Y042EGO 18.1 25.3##A person placing a sandwich into the trash can.
+2Y042EGO 5.0 11.8##A person is undressing in the kitchen by taking their clothes off.
+30WBSEGO 16.0 22.4##Person throws a pillow toward the wardrobe.
+30WBSEGO 0.0 14.1##One person awakens.
+32YUPEGO 6.3 7.25##A person starts walking toward the cabinet.
+32YUPEGO 0.0 5.5##A person is fixing a light.
+33SPCEGO 17.0 25.0##A person begins looking at a picture.
+33SPCEGO 0.0 7.6##A person washes their hands in the sink slowly.
+33SPCEGO 9.0 14.8##A person dries hands off with a towel.
+33TYSEGO 0.0 9.3##A person is walking towards a light.
+33TYSEGO 7.3 18.17##Then a person is putting their hand on a doorknob.
+38ZZPEGO 0.0 5.1##A laughing person is drinking a soda in the bathroom.
+38ZZPEGO 5.1 11.5##Person open the door.
+38ZZPEGO 8.0 11.0##Person leaves.
+38ZZPEGO 4.5 8.9##They grab their shoes.
+39JUOEGO 14.8 24.75##Read the back of the boxes before they leave the pantry.
+39JUOEGO 0.9 6.9##A person is smiling as they walk into a pantry while holding a broom.
+39JUOEGO 2.2 7.9##The person puts the broom in a corner.
+3B48DEGO 15.0 29.0##A person taking a selfie with a book.
+3F0N8EGO 10.1 19.0##Placing Food in the fridge
+3F0N8EGO 4.0 10.4##Opening a refrigerator
+3FDT4EGO 13.6 19.0##They leave the bag in the closet.
+3FDT4EGO 5.0 8.0##A person putting a sandwich in a bag
+3FDT4EGO 0.0 4.9##A person putting a picture in a bag.
+3JKBFEGO 18.6 21.71##A peron opening a box of shoes
+3JKBFEGO 24.0 31.0##A person puts shoes on.
+3JKBFEGO 17.5 21.71##The person sits on the floor.
+3JKBFEGO 9.5 16.4##A person puts a bottle of medicine on the table.
+3JKBFEGO 4.9 12.5##A person walks to the entryway.
+3LU8KEGO 0.0 16.0##A person plays a game on their laptop.
+3LU8KEGO 15.9 21.1##The person laughs.
+3LU8KEGO 15.7 22.7##Person closes the laptop.
+3LU8KEGO 25.8 31.58##A person looks out the window.
+3NJLIEGO 0.0 29.3##A person is smiling into a phone.
+3NJLIEGO 26.7 30.62##A person throwing a pillow in a hallway.
+3OHCPEGO 0.0 3.3##The person the walks out.
+3OHCPEGO 5.1 9.8##The person turns on the light.
+3OHCPEGO 13.3 18.6##The person puts a laptop on a shelf.
+3OME0EGO 0.0 8.5##A person is tidying their entryway with a broom.
+3OME0EGO 6.7 14.0##The person removes a picture frame from the wall.
+3OME0EGO 15.0 26.0##A person washes a picture with glass cleaner.
+3Q2ECEGO 20.4 24.42##person picks up book that is lying in floor.
+3Q2ECEGO 1.9 20.0##throwing clothes in washer.
+3RVH0EGO 5.0 10.0##A person opens the door to a closet.
+3RVH0EGO 10.0 15.0##A person throws a box onto a shelf while talking on their phone.
+3T4QOEGO 15.6 22.96##The start smiling.
+3T4QOEGO 0.0 17.5##A person in the kitchen is sneezing while doing the dishes.
+3T4QOEGO 16.3 21.5##A person drink a cup of coffee.
+3TT5HEGO 0.7 10.0##A person is sneezing on a dusty book.
+3TT5HEGO 14.6 26.4##another person is washing a very dirty window.
+3W1HJEGO 8.0 15.5##they begin eating a bag of chips.
+3W1HJEGO 0.0 10.17##Person in the dining room is fixing the picture laying in front of them.
+3YLJSEGO 6.4 15.7##A person laughing at the picture.
+3YLJSEGO 4.4 15.2##A person is lying on the bed.
+400D6EGO 15.4 20.3##A person drink from a glass.
+40L0GEGO 22.0 38.0##The person start working on doing the homework.
+40L0GEGO 16.0 23.0##The person starts washing a table.
+40L0GEGO 10.0 15.0##Person grasps a sponge that is on top of stove.
+40L0GEGO 8.0 11.0##The person stands.
+40L0GEGO 4.5 7.5##The person throws shoes to a corner.
+40L0GEGO 0.0 5.0##The person is in the kitchen sitting on the floor take out its shoes.
+40OMQEGO 0.0 4.7##A person is in the hallway holding a bag that has clothes in it.
+40OMQEGO 15.0 30.0##They put clothes into the bag that they just put on the floor.
+40OMQEGO 6.1 11.1##Throws the bag onto the floor.
+44FPXEGO 0.0 4.2##A person wakes up in the recreation room.
+44FPXEGO 12.0 31.0##A person grabs a picture of themselves.
+44FPXEGO 4.0 6.0##A person walks to the desk.
+44FPXEGO 4.0 10.0##They grab their phone off the desk
+44TEYEGO 0.0 22.7##A person is playing with their camera.
+44TEYEGO 18.6 22.9##The person sets camera onto the shelf.
+44TEYEGO 19.1 32.0##A person begins tidying the area.
+4BT1JEGO 2.3 6.7##Person moves a box.
+4BT1JEGO 3.5 11.1##Person opens and closes a book.
+4BT1JEGO 18.1 25.21##Person runs out of the room with a broom.
+4IUIFEGO 7.4 13.7##the person stands.
+4IUIFEGO 25.0 32.0##A person walks over to the television.
+4IUIFEGO 9.9 23.3##A person sits in a chair.
+4IUIFEGO 1.7 8.0##A person walks into their home office.
+4OZKJEGO 10.5 17.5##A person takes a picture from a bag.
+4OZKJEGO 19.2 24.5##A person throws picture down.
+4QPMTEGO 21.2 25.9##The person drinks the milk.
+4QPMTEGO 30.4 39.1##Person takes a picture of the milk.
+4QPMTEGO 21.2 27.4##A person pouring milk into a glass on a counter.
+4SUK6EGO 0.0 5.6##A person awakens in bed.
+4SUK6EGO 5.3 14.8##A person takes a drink from a glass of water.
+4SUK6EGO 0.0 4.3##A person sits up.
+4SUK6EGO 15.5 33.17##The person eats a cookie.
+4TTD5EGO 10.0 12.0##Then the person kneels.
+4TTD5EGO 12.0 16.0##A person begins fixing the leg of the table.
+4TTD5EGO 0.0 8.1##A person is tidying up near the sink.
+4UYN9EGO 0.0 21.5##A person is sitting in their dining room looking at the bag of groceries.
+4UYN9EGO 24.2 30.3##A person grab a snack to start eating 
+4UYN9EGO 20.3 29.6##Laughing at the television that is on in the background.
+4VCG4EGO 1.9 18.83##A person is smiling as the set some shoes on the table.
+4VCG4EGO 18.4 18.83##A person open a container of medicine.
+4WS3CEGO 16.0 25.0##The person fix a pillow over the couch.
+4WS3CEGO 25.0 36.0##A person goes to the kitchen to cook food.
+4WS3CEGO 9.0 18.4##A person is smiling while reading a book.
+5ONU5EGO 20.9 26.42##A person takes the eggs out of the egg carton.
+5ONU5EGO 14.3 19.3##The person takes the groceries out of the bag they were in.
+5ONU5EGO 3.8 13.7##A person takes groceries out of the refrigerator.
+5QVJTEGO 0.0 28.7##A person is drinking soda at their desk.
+5QVJTEGO 26.6 32.4##Then the person stands.
+5QVJTEGO 29.1 32.58##A person begins walking to the doorway.
+5T8VHEGO 15.8 21.2##A person takes some medicine.
+5T8VHEGO 3.9 10.2##The person throws the broom into the corner.
+5T8VHEGO 7.8 14.1##The person sits down.
+5T8VHEGO 0.0 9.2##A person in a home office is holding a broom.
+63QSBEGO 20.2 25.5##Person take a bag from the shelf.
+63QSBEGO 26.6 34.1##Person with the bag looking out a window.
+63QSBEGO 5.1 18.0##Person start vacuuming the floor.
+63QSBEGO 0.0 3.8##Person is sitting on the floor of the kitchen.
+67IPFEGO 0.0 6.9##A person is running into their kitchen to close a window.
+67IPFEGO 17.6 24.9##A person throws a bit of food all the way across the room from them.
+67IPFEGO 7.7 14.4##They play with the remote of a television.
+67IPFEGO 15.0 18.0##They set the remote down.
+6AFMPEGO 2.0 4.0##they turn the doorknob.
+6AFMPEGO 0.0 2.0##A person is running up to a doorway.
+6D5DHEGO 10.0 13.0##The person drank from the cup for a little.
+6D5DHEGO 0.0 8.7##The person put a pot on the stove.
+6D5DHEGO 22.0 29.0##The person went to leave the room.
+6D5DHEGO 29.0 33.4##Person grabbing the doorknob.
+6D5DHEGO 11.0 17.0##The person poured the rest of the contents of the drink into the sink.
+6D5DHEGO 7.7 17.9##The person turned to the counter to grab a cup.
+6EJIEEGO 4.9 22.0##A person drinking a glass of milk.
+6EJIEEGO 22.0 27.0##A person puts down the glass of milk.
+6EJIEEGO 27.0 34.0##A person gets a towel to wipe their face.
+6EJIEEGO 0.0 27.0##A person watching a movie on their phone.
+6GETYEGO 2.0 6.0##A person takes a pillow from a box.
+6GETYEGO 5.0 7.0##A person throws the pillow down the hall.
+6GGWXEGO 1.6 7.2##Cooking on the stove.
+6GGWXEGO 4.2 13.2##A person is washing the door on the refrigerator 
+6JHMXEGO 9.0 23.0##They take the medicine.
+6JHMXEGO 2.6 12.6##A person sits on a sofa eating a sandwich.
+6JHMXEGO 19.0 31.0##They drink some water.
+6JHMXEGO 9.0 13.0##They pick up a bottle of medicine.
+6LBNDEGO 0.0 5.2##A person throwing a pillow.
+6LBNDEGO 9.3 20.5##A person is dressing.
+6LBNDEGO 20.5 30.75##A person finally using a laptop in a bedroom.
+6LBNDEGO 1.3 10.0##A person is awakening.
