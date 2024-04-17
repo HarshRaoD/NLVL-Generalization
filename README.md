@@ -1,10 +1,10 @@
 # Generalization Capacity of Natural Language Video Localisation (NLVL) Models
 This is the repository containing the datasets I created during my Final Year Project at Nanyang Technological University. Please cite this work if you find it useful. It can be accessed at: [Coming Soon](https://dr.ntu.edu.sg/)
 
-## Charades-STA-Ego Dataset
+## Charades-Ego-STA Dataset
 This dataset contains 302 query-video pairs labelled with start and end timestamps of the video segment that best fits the given query. All the videos in this dataset are first person videos i.e, the video is taken from the perspective of the person performing the action.   
 
-The labeled video-query can be accessed in the `Charades-STA-Ego` directory of this repo. The csv and txt file both have the same content but the txt file is formatted to be consistant with the format of the [Charades-STA dataset](https://arxiv.org/abs/1705.02101). You can download the videos of the Charades-Ego dataset from [Ai2: Charades-Ego](https://prior.allenai.org/projects/charades-ego).  
+The labeled video-query can be accessed in the `Charades-Ego-STA` directory of this repo. The csv and txt file both have the same content but the txt file is formatted to be consistant with the format of the [Charades-STA dataset](https://arxiv.org/abs/1705.02101). You can download the videos of the Charades-Ego dataset from [Ai2: Charades-Ego](https://prior.allenai.org/projects/charades-ego).  
 
 Please note that the Charades-Ego dataset is subject to its own license whoose terms may differ from that of this repo.
 
