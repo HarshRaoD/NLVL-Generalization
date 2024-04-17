@@ -22,7 +22,7 @@ print("Creating Charades-STA-Merged Dataset Videos")
 print("input_dir:", args.input_video_dir)
 print("output_dir:", args.output_dir)
 print("train_csv_path:", args.train_csv_path)
-print("test_csv_path:", args.test_csv_path)
+print("test_csv_path:", args.test_csv_path, "\n")
 
 CHARADES_DATASET_DIR = args.input_video_dir
 OUTPUT_DIR = args.output_dir
