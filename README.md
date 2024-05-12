@@ -1,5 +1,9 @@
 # Generalization Capacity of Natural Language Video Localisation (NLVL) Models
-This is the repository containing the datasets I created during my Final Year Project at Nanyang Technological University. Please cite this work if you find it useful. It can be accessed at: [Coming Soon](https://dr.ntu.edu.sg/)
+This is the repository containing the datasets I created during my Final Year Project at Nanyang Technological University. Please cite this work if you find it useful, using the citation given below. It can be accessed at: https://hdl.handle.net/10356/175072
+
+```
+Dhanyamraju, H. R. (2024). Generalization capacity of natural language video localization (NLVL) models. Final Year Project (FYP), Nanyang Technological University, Singapore. https://hdl.handle.net/10356/175072
+```
 
 ## Charades-Ego-STA Dataset
 This dataset contains 302 query-video pairs labelled with start and end timestamps of the video segment that best fits the given query. All the videos in this dataset are first person videos i.e, the video is taken from the perspective of the person performing the action.   
